@@ -42,7 +42,7 @@ Example:
               (t val)))
     val))
 
-(add-to-list 'mu4e~headers-field-handler-functions 'mu4e-goodies-header-add-color)
+;;; (add-to-list 'mu4e~headers-field-handler-functions 'mu4e-goodies-header-add-color)
 
 (provide 'mu4e-goodies-header-color)
 
